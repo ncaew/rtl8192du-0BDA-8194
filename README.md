@@ -1,2 +1,4 @@
-# rtl8192du-0BDA-8194
-rtl8192du-0BDA-8194
+rtl8192du
+=========
+
+Source code for RTL8192DU device
