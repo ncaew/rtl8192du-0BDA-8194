@@ -19,7 +19,7 @@ Source code for RTL8192DU device
 * AP Mode testing is failed.
 
 ## On Rock64 
-* Native comipling is ok.
+* Native comipling is ok. (Maybe need kernel for rock64 first, then ln -nsf arch/arm64 arch/aarch64)
 * STA Mode do not test.
 * AP Mode do not test.
 
