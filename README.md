@@ -16,4 +16,10 @@ Source code for RTL8192DU device
 ## On Raspberry Pi 3 kernel version: 4.4.50
 * Native compiling is ok.
 * STA Mode testing is passed.
-* AP Mode testing is passed.
+* AP Mode testing is failed.
+
+## On Rock64 
+* Native comipling is ok.
+* STA Mode do not test.
+* AP Mode do not test.
+
